@@ -16,3 +16,6 @@ RUN pip install pipenv && pipenv install --system
 
 # Copy project
 COPY . /code/
+
+#run server
+RUN python /code/manage.py runserver 0.0.0.0:8000
