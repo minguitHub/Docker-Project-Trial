@@ -1,7 +1,1 @@
-Containerized Hello World Django App\
-\
-To build:\
-docker build -f Dockerfile .
-
-
-
+Containerized Hello World Django App
