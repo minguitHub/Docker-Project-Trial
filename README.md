@@ -1,6 +1,6 @@
 Containerized Hello World Django App\
 \
-To run:\
+To build:\
 docker build -f Dockerfile .
 
 
