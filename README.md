@@ -1,4 +1,4 @@
-# Project Title
+# Hello World
 
 One Paragraph of project description goes here. Forked from [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 
@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Docker
 
 ```
 Give examples
