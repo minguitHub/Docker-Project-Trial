@@ -16,21 +16,32 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Clone the main branch OR pull the image from Dockerhub (https://hub.docker.com/repository/docker/themagicalfishtaco/helloworld)
 
 ```
-Give the example
+Git clone https://github.com/admu-zaavedra/project-submissions-group-name-pending.git
+
+Docker pull themagicalfishtaco/helloworld:latest
 ```
 
-And repeat
+(Optional) IF pulling from github, build a docker image\
+If pulling from Dockerhub, skip
 
 ```
-until finished
+docker build -t <ImageName> .
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+Run container from docker image
+
+```
+docker run -d -p 8000:8000 <ImageName>
+```
+
+Basic Hello World website should appear at localhost:8000
+
+```
+localhost:8000
+```
 
 ## Deployment
 
