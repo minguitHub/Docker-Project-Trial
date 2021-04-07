@@ -1,6 +1,6 @@
 # Containerized Hello World Application
 
-One Paragraph of project description goes here. Forked from [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+A simple Containerized Hello World Application built using Docker and Django. 
 
 ## Getting Started
 
