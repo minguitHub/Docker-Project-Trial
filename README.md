@@ -10,10 +10,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 Docker
 
-```
-Give examples
-```
-
 ### Installing
 
 Clone the main branch OR pull the image from Dockerhub (https://hub.docker.com/repository/docker/themagicalfishtaco/helloworld)
