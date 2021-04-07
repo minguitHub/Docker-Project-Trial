@@ -1,4 +1,4 @@
-# Hello World
+# Containerized Hello World Application
 
 One Paragraph of project description goes here. Forked from [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 
@@ -38,15 +38,18 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Django](https://docs.djangoproject.com/en/3.2/) - The web framework used
+* [Docker](https://docs.docker.com/) - Containerizing application used
 
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
+Arceo, Li Niko M.
+Beltran, Mark
+Co, Lance Michael O.
+Sumingit, Sylvane
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
