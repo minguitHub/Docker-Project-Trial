@@ -21,7 +21,7 @@ Docker pull themagicalfishtaco/helloworld:latest
 ```
 
 (Optional)
-* If pulling from github, build a docker image\
+* If pulling from github, build a docker image
 * If pulling from Dockerhub, skip
 
 ```
