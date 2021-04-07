@@ -39,10 +39,6 @@ Basic Hello World website should appear at localhost:8000
 localhost:8000
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [Django](https://docs.djangoproject.com/en/3.2/) - The web framework used
