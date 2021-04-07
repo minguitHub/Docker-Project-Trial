@@ -54,13 +54,13 @@ Add additional notes about how to deploy this on a live system
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the latest(https://github.com/admu-zaavedra/project-submissions-group-name-pending/tags). 
 
 ## Authors
 Arceo, Li Niko M.\
-Beltran, Mark\
+Beltran, Mark M.\
 Co, Lance Michael O.\
-Sumingit, Sylvane
+Sumingit, Sylvane Q.
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -70,6 +70,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Application was containerized following https://dockerize.io/guides/python-django-guide
+* Group was guided by Saavedra, Miguel Zenon Nicanor L.
