@@ -53,7 +53,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 Arceo, Li Niko M.\
 Beltran, Mark M.\
 Co, Lance Michael O.\
-Sumingit, Sylvane Q.
+Suminguit, Sylvane Q.
 
 ## License
 
