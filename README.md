@@ -20,8 +20,9 @@ Git clone https://github.com/admu-zaavedra/project-submissions-group-name-pendin
 Docker pull themagicalfishtaco/helloworld:latest
 ```
 
-(Optional) IF pulling from github, build a docker image\
-If pulling from Dockerhub, skip
+(Optional)
+* If pulling from github, build a docker image\
+* If pulling from Dockerhub, skip
 
 ```
 docker build -t <ImageName> .
